@@ -8,6 +8,10 @@
 <p>My name is Madhu Kandukuri. I'm from Hyderabad,India. I love to solve coding problems and would happy to innovate things where coding plays its keyrole. I'm always ready to brainstorm over data structure and algorithm for building solution which could be of efficient time complexity and space requirements.
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Madhu683)](https://git.io/streak-stats)
+
+
+
 
 
 
